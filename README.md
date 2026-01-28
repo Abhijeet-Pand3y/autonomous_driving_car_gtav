@@ -77,6 +77,7 @@ To debug agent behavior, I engineered a full-stack telemetry suite using **WebSo
 
 ---
 ---
+---
 ## 👥 Credits & Team
 This project was developed as a Capstone Research effort.
 
@@ -87,6 +88,10 @@ This project was developed as a Capstone Research effort.
 * **Bishal Pahari:** **Mobile & GIS Engineer.**
     * Developed the mobile telemetry application.
     * Implemented real-time GIS mapping and coordinate visualization services.
+
+* **Saurav Bhattarai:** **Technical Research Associate.**
+    * Collaborated on model architecture selection (EfficientNet) and training strategy.
+    * Conducted critical feasibility research on GTA V modding tools and simulation constraints.
 
 * **Amrit Kharel:** **Integration & Testing Support.**
     * Assisted with backend-to-frontend connection testing.
