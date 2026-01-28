@@ -74,3 +74,20 @@ To debug agent behavior, I engineered a full-stack telemetry suite using **WebSo
 * **Core:** Python, TensorFlow (Keras), OpenCV
 * **Simulation Interface:** C# (.NET ScriptHook), C++
 * **Infrastructure:** Google Cloud Platform (GCP), NetMQ, WebSockets
+
+---
+---
+## 👥 Credits & Team
+This project was developed as a Capstone Research effort.
+
+* **Abhijeet Pandey:** **Lead Research Engineer.**
+    * Designed the End-to-End ML Architecture and Computer Vision pipeline.
+    * Engineered the Cloud Infrastructure (GCP/Colab) and Custom Simulation Interface (GTA V Modding/ScriptHooks).
+
+* **Bishal Pahari:** **Mobile & GIS Engineer.**
+    * Developed the mobile telemetry application.
+    * Implemented real-time GIS mapping and coordinate visualization services.
+
+* **Amrit Kharel:** **Integration & Testing Support.**
+    * Assisted with backend-to-frontend connection testing.
+    * Conducted initial system validation and quality assurance checks.
